@@ -12,8 +12,8 @@ Feature_052621.prototype = {
     initialize: function() {
     },
     sayHello: function() {
-		return "Hello!";
-		// add comment: Fred Luddy
+		return "Hello!!";
+		// add comment: Fred Luddy;
     },
     type: 'Feature_052621'
 };]]></script>
@@ -21,13 +21,13 @@ Feature_052621.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-07-27 02:51:34</sys_created_on>
         <sys_id>f2af7e9a412130107f44f91c3f9c4b3c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Feature_052621</sys_name>
         <sys_package display_value="CICD DemoApp" source="x_snc_cicd_demoapp">0b7af696412130107f44f91c3f9c4b84</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="CICD DemoApp">0b7af696412130107f44f91c3f9c4b84</sys_scope>
         <sys_update_name>sys_script_include_f2af7e9a412130107f44f91c3f9c4b3c</sys_update_name>
-        <sys_updated_by>fred.luddy</sys_updated_by>
-        <sys_updated_on>2021-07-27 02:56:11</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-27 06:10:43</sys_updated_on>
     </sys_script_include>
 </record_update>
